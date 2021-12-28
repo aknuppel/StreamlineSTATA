@@ -124,7 +124,7 @@ CONCAT allows to combine cells and add any strings "" - this is helpful when wan
 
 Note that all functions in excel can be changed using Ctrl+H for example if you would like to change OR(lCI, uCI) to OR(lCI-uCI) you can just search and replace ", " to "-"
 
-SEE CombineOutputIndirect.xlsx for full example.
+SEE https://github.com/aknuppel/StreamlineSTATA/blob/main/CombineOutputIndirect.xlsx for full example.
 
 */
 
